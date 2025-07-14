@@ -4,3 +4,5 @@ INTERN ID: CT06DG1584
 DOMAIN: FRONT END DEVELOPMENT
 DURATION: 6 WEEKS
 
+#OUTPUT
+[output.pdf](https://github.com/user-attachments/files/21218601/output.pdf)
